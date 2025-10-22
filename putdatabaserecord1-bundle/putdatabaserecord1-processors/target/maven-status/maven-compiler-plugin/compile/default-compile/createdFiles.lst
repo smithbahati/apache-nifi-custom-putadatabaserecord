@@ -1,0 +1,8 @@
+com\example\nifi\processors\PutDatabaseRecord1$DMLSettings.class
+com\example\nifi\processors\PutDatabaseRecord1$PreparedSqlAndColumns.class
+com\example\nifi\processors\PutDatabaseRecord1$SqlAndIncludedColumns.class
+com\example\nifi\processors\PutDatabaseRecord1$SchemaKey.class
+com\example\nifi\processors\PutDatabaseRecord1$1.class
+com\example\nifi\processors\PutDatabaseRecord1$RecordPathStatementType.class
+com\example\nifi\processors\PutDatabaseRecord1$ConfigValidationResult.class
+com\example\nifi\processors\PutDatabaseRecord1.class
